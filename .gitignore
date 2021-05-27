@@ -13,7 +13,6 @@ Thumbs.db
 # Node.js
 node_modules/
 
-LeetCode_JS_Classic/exercisesnode_modules/
 dist/
 npm-debug.log
 yarn-error.log
